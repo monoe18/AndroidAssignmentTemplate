@@ -1,0 +1,44 @@
+[
+    {
+        "title":"Django Unchained",
+        "release_year": "2012",
+        "director":"Quentin Tarantino",
+        "cast": ["Jamie Foxx","Leonardo DiCaprio", "Christoph Waltz"],
+        "image_reference": "djangoUnchained.png"
+    },
+    {
+        "title":"Shrek",
+        "release_year":"2001",
+        "director":"Andrew Adamson",
+        "cast": ["Mike Myers", "Eddie Murhpy", "Cameron Diaz"],
+        "image_reference": "shrek.png"
+    },
+    {
+        "title":"Pulp Fiction",
+        "release_year":"1994",
+        "director":"Quentin Tarantino",
+        "cast": ["Uma Thurman", "Samuel L. Jackson", "John Travolta"],
+        "image_reference":"pulpfiction.png"
+    },
+    {
+        "title":"Get Out",
+        "release_year":"2017",
+        "director":"Jordan Peele",
+        "cast": ["Daniel Kaluuya", "Allison Williams", "LaKeith Stanfield"],
+        "image_reference":"getout.png"
+    },
+    {
+        "title":"Saving Private Ryan",
+        "release_year":"1998",
+        "director":"Steven Spielberg",
+        "cast": ["Tom Hanks", "Matt Damon", "Vin Diesel"],
+        "image_reference":"ryan.png"
+    },
+    {
+        "title":"Gladiator",
+        "release_year":"2000",
+        "director":"Ridley Scott",
+        "cast": ["Russel Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "image_reference":"gladiator.png"
+    }
+]
